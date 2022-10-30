@@ -1,0 +1,2 @@
+import{A as t}from"./index.91d64e96.js";import"./index.d575418f.js";import"./iframe.0e126bad.js";import"./index.26fb8f67.js";import"./jsx-runtime.a003b8d9.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/guiibraun.png",alt:"Gui Braun"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{c as Primary,m as WithFallback,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.5e44dd6c.js.map
